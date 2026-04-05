@@ -33,7 +33,7 @@ A professional, high-performance, and visually stunning Android application buil
 
 | Home Screen (Grid) | Detail Screen (Profile) |
 |---|---|
-| ![Home](https://via.placeholder.com/300x600?text=Home+Grid+View) | ![Detail](https://via.placeholder.com/300x600?text=Detail+Profile+View) |
+| <img src="screenshots/home_screen.png.jpeg" width="300"> | <img src="screenshots/detail_screen.png.jpeg" width="300"> |
 
 ---
 
@@ -56,6 +56,7 @@ CelebrityPortfolioApp/
 │   │   │   │   └── AppDatabase.kt         # Room Database
 │   │   │   └── AndroidManifest.xml        # App Permissions
 │   └── build.gradle.kts     # App-level build configuration
+├── screenshots/             # Folder containing App Screenshots
 ├── gradle/                  # Gradle wrapper files
 ├── .gitignore               # Files to be ignored by Git
 ├── build.gradle.kts         # Project-level build configuration
