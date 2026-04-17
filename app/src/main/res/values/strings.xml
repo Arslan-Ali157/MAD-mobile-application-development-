@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task5</string>
+    <string name="Name">Name</string>
+    <string name="Phone">Phone</string>
+    <string name="Email">Email</string>
+    <string name="Street">Street</string>
+    <string name="Country">City/State/Zip</string>
+    <string name="save">SAVE CONTACT</string>
+    <string name="Add_New">Add New</string>
+    <string name="edit">Edit Contact</string>
+    <string name="delete">Delete Contact</string>
+</resources>
